@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Gabrielle "Bee" Leung (PI)
+category: pi
 pronouns: she/her
 current_position: |
   Assistant Professor <br/>
@@ -9,7 +10,6 @@ current_position: |
 phd: Ph.D., Atmospheric Science, <em>Colorado State University</em>, 2025
 ms: M.S., Atmospheric Science, <em>Colorado State University</em>, 2022
 bs: B.S., Physics, minor in Creative Writing, <em>Ateneo de Manila University</em>, 2019
-importance: 1
 img: "/assets/img/leung.jpg"
 github: http://github.com/grleung
 orcid: https://orcid.org/0000-0003-2216-6207
