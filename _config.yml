@@ -22,8 +22,8 @@ title: Land, Aerosol, and Cloud Interactions Group
 email: bee.leung@wisc.edu
 description: 'PI: Gabrielle "Bee" Leung <br/> Department of Atmospheric and Oceanic Sciences<br/>University of Wisconsin–Madison'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://grleung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  grleung
+url: "http://leung-group.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: leung-group
 orcid: 0000-0003-2216-6207
 
 # Build settings
