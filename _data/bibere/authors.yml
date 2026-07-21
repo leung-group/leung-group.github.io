@@ -107,3 +107,18 @@ hilario:
   name:
     first: M.R.A.
     last: Hilario
+
+stier:
+  name:
+    first: P.
+    last: stier
+
+ritman:
+  name:
+    first: M.
+    last: Ritman
+
+jones:
+  name:
+    first: W.K.
+    last: Jones
