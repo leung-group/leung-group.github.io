@@ -35,6 +35,7 @@ pagination:
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <span class="post-text">
             {{ post.title }}
+            {{ post.content }}
         </span>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
