@@ -87,8 +87,9 @@ latest_posts:
 
 header_pages:
  - index.md
- - research.md
  - people.md
- - openings.md
+ - research.md
+ - teaching.md
  - publications.md
  - news.md
+ - openings.md
